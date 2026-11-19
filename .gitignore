@@ -1,0 +1,16 @@
+# Environment Variables (JANGAN upload password asli ke GitHub!)
+.env
+
+# Go Build & Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.db
+
+# IDE / Editor
+.vscode/
+.idea/
